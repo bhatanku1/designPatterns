@@ -1,5 +1,5 @@
 package singleton;
-
+//First comment
 public class Test {
 	public static void main(String[] a){
 		Singleton singleton1 = Singleton.getSingleton();
