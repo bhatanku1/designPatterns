@@ -1,5 +1,6 @@
 package singleton;
 //First comment
+//Second commit
 public class Test {
 	public static void main(String[] a){
 		Singleton singleton1 = Singleton.getSingleton();
